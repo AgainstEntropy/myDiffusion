@@ -1,0 +1,3 @@
+[submodule "my_custom_pipeline"]
+	path = my_custom_pipeline
+	url = https://huggingface.co/AgainstEntropy/my_custom_pipeline
